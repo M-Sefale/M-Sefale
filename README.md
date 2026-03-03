@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 I am a Data Science and Finance Double Major at St. Lawence University, Canton, N.Y.
-I have a wide range of interests spanning from web development to data analysis to financial markets to environmental conservation and sustainable agriculture.
+I have a wide range of interests spanning from web development and data analysis to financial markets, environmental conservation and sustainable agriculture.
 
-I am currently working on a web app image uploader for Nature Up North as one of their Computer Science interns.
+I am currently working on an image uploader web app for Nature Up North on their Computer Science interns team.
 
-I am currently delving more into learning R for data analysis and visualizations. See Data Vis Repository.
+I am also delving more into learning R for data analysis and visualizations. 
 
 <!--
 **M-Sefale/M-Sefale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
