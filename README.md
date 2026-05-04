@@ -5,7 +5,7 @@ I have a wide range of interests spanning from web development and data analysis
 
 I am currently working on an image uploader web app for Nature Up North on their Computer Science interns team.
 
-I am also delving more into learning R for data analysis and visualizations. 
+I am also delving more into learning R for data analysis and visualizations through a Data Visualization class I am currently taking. Projects for this class can be found in the  DataVis334 and Measles-Project repositories.
 
 <!--
 **M-Sefale/M-Sefale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
